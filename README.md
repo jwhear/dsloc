@@ -1,7 +1,8 @@
 dsloc
 -----
 A source-lines-of-code (SLOC) counter for the D language, written in D.
-Author: Justin Whear
+
+**Author:** Justin Whear
 
 This program employs a few simple regexes on a per-line basis to count the number of blank (whitespace only), comment, and code lines in a D file.
 
